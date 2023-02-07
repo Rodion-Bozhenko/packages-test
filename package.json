@@ -1,0 +1,21 @@
+{
+  "name": "packages-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodion-Bozhenko/packages-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodion-Bozhenko/packages-test/issues"
+  },
+  "homepage": "https://github.com/Rodion-Bozhenko/packages-test#readme"
+}
